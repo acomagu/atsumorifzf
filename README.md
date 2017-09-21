@@ -8,7 +8,7 @@ Almost the general [fzf](https://github.com/junegunn/fzf), but show "熱盛" in 
 $ fisher acomagu/atsumorifzf
 ```
 
-Fish only! _(:3」∠)_
+Fish only! \_(:3」∠)\_
 
 ## Usage
 
